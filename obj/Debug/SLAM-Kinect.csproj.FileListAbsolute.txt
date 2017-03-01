@@ -1,0 +1,1 @@
+c:\users\karan\documents\visual studio 2015\Projects\SLAM-Kinect\SLAM-Kinect\bin\Debug\SLAM-Kinect.exe.config
