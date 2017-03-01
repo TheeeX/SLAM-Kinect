@@ -4,10 +4,10 @@ This project demonstrates SLAM on RGBD points from kinect 360 in c# using EmguCV
 
 # ToDo:
  - `Get pose`
- - `3D ppoints`
+ - `3D points`
 
 ## Dependencies
 
- - `Emgucv3`
- - `Opencv3`
+ - `EmguCV3`
+ - `OpenCV3`
  - `Windows Kinect SDK 1.8`
